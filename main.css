@@ -1,0 +1,35 @@
+html {
+    background: black;
+    height: 100%;
+}
+
+.container {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+}
+
+.running {
+    font-family: 'Bangers', cursive;
+    color: white;
+    font-size: xx-large;
+}
+
+.chilling {
+    font-family: 'Bangers', cursive;
+    color: white;
+    font-size: xx-large;
+}
+
+.img {
+    width: 100%;
+    height: auto;
+}
+
+h1 {
+    padding-top: 8%;
+    width: 100%;
+}
